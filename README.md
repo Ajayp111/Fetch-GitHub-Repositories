@@ -1,3 +1,16 @@
+Usage:
+    Enter the GitHub username in the "Username" input field.
+    Choose the number of repositories to display per page from the "Repositories per page" dropdown.
+    Optionally, enter search keywords in the "Search Repositories" input field.
+    Click the "Fetch Repositories" button to retrieve and display repositories.
+    Scroll down to load more repositories as needed.
+
+
+Features :
+Fetch GitHub repositories for a specific user.
+Specify the number of repositories per page.
+Search repositories based on keywords.
+
 ## Project Structure
 
 The project has the following structure:
